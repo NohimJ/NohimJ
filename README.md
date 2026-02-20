@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Nohim, I am a Data Science student who is passionate about machine learning and financial markets<br>Feel free to reach me at nvj@sfu.ca.
+Hello! My name is Nohim, I am a Data Science student who is passionate about machine learning and financial markets.<br>Feel free to reach me at nvj@sfu.ca.
 
 
 ## 🌐 Socials:
